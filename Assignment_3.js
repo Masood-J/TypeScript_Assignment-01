@@ -1,6 +1,7 @@
 "use strict";
 //String Variable
 let greeting = "Hello, World";
+console.log(greeting);
 //Basic Math
 let num1 = 5, num2 = 5;
 let product = num1 * num2, addition = num1 + num2, division = num1 / num2, subtraction = num1 - num2;

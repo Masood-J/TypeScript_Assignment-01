@@ -1,5 +1,6 @@
 //String Variable
 let greeting: string = "Hello, World";
+console.log(greeting);
 //Basic Math
 let num1 = 5,
   num2 = 5;
